@@ -27,7 +27,7 @@ export default function Login() {
     <div className="login-page">
       <div className="login-card">
         <div className="login-logo">
-          <h1>⛪ ChurchFlow</h1>
+          <h1>⛪ C.S.I CHURCH</h1>
           <p>Sign in to your church portal</p>
         </div>
 
