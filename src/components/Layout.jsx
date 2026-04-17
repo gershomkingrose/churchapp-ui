@@ -22,7 +22,7 @@ export default function Layout() {
     <div className="layout">
       <aside className="sidebar">
         <div className="sidebar-header">
-          <h1>⛪ ChurchFlow</h1>
+          <h1>⛪ C.S.I Church</h1>
           <p>Church Management</p>
         </div>
 
